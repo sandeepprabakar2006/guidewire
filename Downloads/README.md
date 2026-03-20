@@ -393,8 +393,7 @@ Carbon's product policy is a prototype document defining the full coverage archi
 | Minimum Activity | 3 active delivery days in preceding 7-day period |
 | Payout Timeline | 2–4 hours from trigger confirmation |
 
-The complete Product Policy Wording  governs all coverage terms, premium mechanics, payout logic, eligibility, fraud provisions, and grievance redressal which was written by team carbon, see  [`/docs/Carbon_Product_Policy_Wording_March2026.pdf`.
-](https://github.com/sandeepprabakar2006/guidewire.git)
+The complete Product Policy Wording  governs all coverage terms, premium mechanics, payout logic, eligibility, fraud provisions, and grievance redressal which was written by team carbon, see  https://drive.google.com/file/d/1EWhg2ZPwrNTImWZpWwpxyc4IkzJhNHVm/view?usp=sharing
 ---
 
 ## 10. Tech Stack & Development Plan
